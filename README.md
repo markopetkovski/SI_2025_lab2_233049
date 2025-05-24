@@ -6,7 +6,7 @@
 
 ## Барање 1: Control Flow Graph (CFG)
 
-![CFG](marko21.drawio.png)
+![CFG](marko47.drawio.png)
 
 ---
 
